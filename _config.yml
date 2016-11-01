@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Harald Münzel
+twitter_username: HaraldMuenzel
+name: Harald Münzel
 
 # Build settings
 markdown: kramdown
@@ -9,17 +9,13 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
- - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
-
+   url: https://de.linkedin.com/in/muenzel
+ - title: Xing
+   url: https://www.xing.com/profile/Harald_Muenzel
+ - title: GitHub
+   url: https://github.com/muenzel
+   
 #Any buzzword skills you want to include
 skills:
  - Groovy
